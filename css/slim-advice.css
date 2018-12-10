@@ -1,0 +1,14 @@
+.slim-advice {
+	background-color: #d8f0f3;
+}
+
+.slim-advice h1, h4 {
+	font-family: 'Notable', sans-serif;
+	text-align: left;
+    text-decoration: underline;
+}
+
+.slim-advice p {
+	font-family: 'Slabo 27px', serif;
+}
+
